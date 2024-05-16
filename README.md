@@ -1,6 +1,6 @@
 # Contact Information
 **Jordan Clarke**<br/>
-*jordankingsleyclarke@gmail.com*<br/>
+jordankingsleyclarke@gmail.com<br/>
 931-538-9942
 # Technologies
 - Javascript
@@ -12,6 +12,9 @@
 * Technical Writing
   * Documentation
   * Reports
+# Education
+**Bachelor's Degree** in Interdisciplinary Studies<br/>
+The City College of New York
 # Experience
 - Customer Service
 - Managerial
